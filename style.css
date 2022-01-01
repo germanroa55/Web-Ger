@@ -1,0 +1,47 @@
+*{
+    color: rgb(6, 46, 46);
+    font-family: 'Bakbak One', cursive;
+    background-color: whitesmoke
+}
+header{
+    outline:rgb(209, 209, 1);  
+}
+nav{
+    background-color:rgb(160, 158, 158);
+}
+.btn{
+border-radius: 0px;
+display: inline-block;
+padding: 20px 15px;
+text-decoration: none;
+text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+border: 0;
+
+}
+.btn-red{
+    color:black;
+    background-color:rgb(160, 158, 158);
+ }
+div{
+    width: 120px;
+    height: 120px;
+    display: block;
+    background-color: aquamarine;
+}
+.caja2{
+background-color: royalblue;
+
+
+}
+.caja1{
+    background-color: violet;
+position: relative;
+
+}
+.ella{
+    display: inline-block;
+    height: 100px;
+    width: 120px;
+    background-color: yellowgreen;
+}
