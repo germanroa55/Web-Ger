@@ -4,44 +4,54 @@
     background-color: whitesmoke
 }
 header{
-    outline:rgb(209, 209, 1);  
-}
-nav{
-    background-color:rgb(160, 158, 158);
+    background-color:rgb(177, 53, 53);
+    position: sticky;
+    top: 0px;
+    left: 1px;
 }
 .btn{
 border-radius: 0px;
 display: inline-block;
-padding: 20px 15px;
+padding: 15px 1px;
 text-decoration: none;
-text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
-box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+text-shadow: 0 1px 0 rgb(255,255,255)
 border: 0;
-
 }
 .btn-red{
     color:black;
-    background-color:rgb(160, 158, 158);
+    background-color:rgb(177, 53, 53);
  }
-div{
-    width: 120px;
-    height: 120px;
-    display: block;
-    background-color: aquamarine;
+.fas{
+    background-color: rgb(177, 53, 53);
+    position: relative;
+    left: 15px;
 }
-.caja2{
-background-color: royalblue;
-
-
+.Link1{
+    text-decoration: none;
+    position: relative;  
+    left: 805px;
 }
-.caja1{
-    background-color: violet;
-position: relative;
-
+.Link2{
+    text-decoration: none;
+    position: relative;
+    left: 845px;
 }
-.ella{
-    display: inline-block;
-    height: 100px;
-    width: 120px;
-    background-color: yellowgreen;
+.Link3{
+    text-decoration: none;
+    position: relative;
+    left: 1165px;
+}
+.Link3:Hover{
+    background-color: rgb(128, 255, 0); 
+}
+.ButtonP{
+    text-decoration: none;
+    position: relative;
+    left: -30px;
+}
+------------------------------------------------------------------------------------------------------------------------------
+.h11{
+    height: 200px;
+    width: 200px;
+    display: inline;
 }
