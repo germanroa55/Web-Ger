@@ -1,21 +1,21 @@
 *{
     color: rgb(6, 46, 46);
     font-family: 'Bakbak One', cursive;
-    background-color: whitesmoke
+    background-color: rgb(241, 240, 240);
 }
 header{
     background-color:rgb(177, 53, 53);
     position: sticky;
     top: 0px;
     left: 1px;
+    
 }
 .btn{
 border-radius: 0px;
 display: inline-block;
 padding: 15px 1px;
 text-decoration: none;
-text-shadow: 0 1px 0 rgb(255,255,255)
-border: 0;
+text-shadow: 0 1px 0 rgb(255,255,255) white
 }
 .btn-red{
     color:black;
@@ -25,21 +25,25 @@ border: 0;
     background-color: rgb(177, 53, 53);
     position: relative;
     left: 15px;
+    font-size: 23px;
 }
 .Link1{
     text-decoration: none;
     position: relative;  
-    left: 805px;
+    left: 750px;
+    font-size: 20px;
 }
 .Link2{
     text-decoration: none;
     position: relative;
-    left: 845px;
+    left: 780px;
+    font-size: 20px;
 }
 .Link3{
     text-decoration: none;
     position: relative;
     left: 1165px;
+    font-size: 20px;
 }
 .Link3:Hover{
     background-color: rgb(128, 255, 0); 
@@ -47,11 +51,27 @@ border: 0;
 .ButtonP{
     text-decoration: none;
     position: relative;
-    left: -30px;
+    left: -23px;
+    font-size: 20px;
 }
-------------------------------------------------------------------------------------------------------------------------------
-.h11{
-    height: 200px;
-    width: 200px;
+.T1tle{
+    position: relative;
+    top: 120px;
+    left: 200px;
     display: inline;
+}
+.T1tle-home{
+    color: cyan;
+    background-color: rgb(151, 143, 143);
+}
+.pag{
+    height:560px;
+    background-color: rgb(241, 240, 240);
+}
+#section{
+    background-color: rgb(151, 143, 143);
+}
+img{
+    height: 400px;
+    width: 500px;
 }
