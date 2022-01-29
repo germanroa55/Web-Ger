@@ -44,6 +44,7 @@ text-shadow: 0 1px 0 rgb(255,255,255) white
     position: relative;
     left: 1165px;
     font-size: 20px;
+    padding: 10px;
 }
 .Link3:Hover{
     background-color: rgb(128, 255, 0); 
@@ -63,16 +64,24 @@ text-shadow: 0 1px 0 rgb(255,255,255) white
 .T1tle-home{
     color: cyan;
     background-color: rgb(151, 143, 143);
+    position: relative;
+    top: 10px;
 }
 .pag{
     height:560px;
     background-color: rgb(241, 240, 240);
 }
 #main{
-    background-color: rgb(107, 25, 25);
+    background-color: rgb(255, 255, 255);
+    height: 650px;
+}
+#principal{
     height: 500px;
 }
-.img{
-    height: 30px;
-    width: 25px;
+#img{
+height: 306px;;
+width: 511px;
+position: relative;
+top: 0px;
+left: 40px;    
 }
