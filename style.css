@@ -30,58 +30,119 @@ text-shadow: 0 1px 0 rgb(255,255,255) white
 .Link1{
     text-decoration: none;
     position: relative;  
-    left: 750px;
+    left: 735px;
     font-size: 20px;
+    padding: 12px;
+}
+.Link1:Hover{
+    background-color: rgb(180, 67, 67);
 }
 .Link2{
     text-decoration: none;
     position: relative;
-    left: 780px;
+    left: 730px;
     font-size: 20px;
+    padding: 12px;
+}
+.Link2:Hover{
+    background-color: rgb(180, 67, 67);
 }
 .Link3{
     text-decoration: none;
     position: relative;
-    left: 1165px;
+    left: 1155px;
     font-size: 20px;
-    padding: 10px;
+    padding: 12px;
 }
 .Link3:Hover{
-    background-color: rgb(128, 255, 0); 
+    background-color: rgb(180, 67, 67);
 }
 .ButtonP{
     text-decoration: none;
     position: relative;
-    left: -23px;
+    left: -49px;
     font-size: 20px;
 }
 .T1tle{
     position: relative;
-    top: -120px;
-    left: 200px;
+    top: -90px;
+    left: 240px;
     display: inline;
 }
 .T1tle-home{
-    color: cyan;
-    background-color: rgb(151, 143, 143);
+    color: rgb(5, 5, 5);
+    font-size: 30px;
+    text-shadow: 1px 0px 0px rgb(148, 148, 148);
     position: relative;
-    top: 10px;
+    top: px;
 }
 .pag{
     height:560px;
     background-color: rgb(241, 240, 240);
 }
 #main{
-    background-color: rgb(255, 255, 255);
-    height: 650px;
+    background-color: rgb(206, 206, 206);
+    height: 5600px;
 }
 #principal{
-    height: 500px;
+    height: 600px;
+    background-color: rgb(233, 232, 232)
 }
 #img{
-height: 306px;;
-width: 511px;
+height: 316px;;
+width: 521px;
 position: relative;
-top: 0px;
-left: 40px;    
+top: 100px;
+left: 390px;    
+}
+#footer-1{
+    color: white;
+    height: 120px;
+    background-color: black;
+}
+.h5{
+    font-family: Avenir Next;
+    font-size: 15px;
+    color: rgb(83, 83, 83);
+    width: 350px;
+}
+.info1{
+    color: rgb(255, 30, 0);
+    background-color: rgb(214, 79, 0);
+    display: inline;
+    padding: 180px 75px;
+    margin:  20px;
+    position: relative;
+    top: 185.5px;
+    left: -6px;
+}
+.info2{
+    color: rgb(255, 30, 0);
+    background-color: rgb(18, 214, 0);
+    display: inline;
+    padding: 180px 75px;
+    position: relative;
+    top: 150px;
+    left: 250px;
+    
+}
+.info3{
+    color: rgb(255, 30, 0);
+    background-color: rgb(67, 233, 233);
+    display: inline;
+    padding: 180px 75px;
+    margin:  20px;
+    position: relative;
+    top: 114px;
+    left: 470px;
+}
+.info4{
+    color: rgb(255, 30, 0);
+    background-color: rgb(118, 0, 214);
+    display: inline;
+    padding: 180px 75px;
+    margin:  20px;
+    position: relative;
+    top: 78px;
+    left: 970px;
 }
