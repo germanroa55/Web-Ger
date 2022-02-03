@@ -113,8 +113,8 @@ left: 390px;
     padding: 180px 75px;
     margin:  20px;
     position: relative;
-    top: 185.5px;
-    left: -6px;
+    top: 360px;
+    left: 40px;
 }
 .info2{
     color: rgb(255, 30, 0);
@@ -122,8 +122,8 @@ left: 390px;
     display: inline;
     padding: 180px 75px;
     position: relative;
-    top: 150px;
-    left: 250px;
+    top: 360px;
+    left: 368px;
     
 }
 .info3{
@@ -133,16 +133,17 @@ left: 390px;
     padding: 180px 75px;
     margin:  20px;
     position: relative;
-    top: 114px;
-    left: 470px;
+    top: 360px;
+    left: 660px;
 }
 .info4{
     color: rgb(255, 30, 0);
-    background-color: rgb(118, 0, 214);
+    background-color: rgb(124, 0, 226);
+    text-align: end;
     display: inline;
     padding: 180px 75px;
     margin:  20px;
     position: relative;
-    top: 78px;
-    left: 970px;
+    top: 360px;
+    left: 965px;
 }
