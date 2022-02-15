@@ -79,8 +79,8 @@ font-size: 23px;
     background-color: rgb(241, 240, 240);
 }
 #main{
-    background-color: rgb(206, 206, 206);
-    height: 5600px;
+    background-color: rgb(218, 216, 216);
+    height: 2050px;
 }
 #principal{
     height: 600px;
@@ -103,18 +103,17 @@ top: -50px;
 left: 240px;
 }
 .divs{
-    background-color: rgb(189, 181, 181);
+    background-color: rgb(199, 197, 197);
     padding: 50px;
     width: 190px;
     height: 280px;  
-    display: flex;
-    justify-content: flex;
     
 }
 .divs{
     display: inline-block;
     margin: 8px;
     margin-top: 100px;
+    padding: auto;
     border: 3px solid rgb(180, 67, 67);
 }
 .div{
@@ -123,15 +122,17 @@ left: 240px;
 .introver{
     display: flex;
     justify-content: center;
-    margin-top: 10px;
 }
 .introver{
     position: relative;
+    top: 25px;
 
 }
 .introver-home{
-    color: blueviolet;
+    color: rgb(101, 100, 102);
     margin-top: 10px;
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
 }
 .photos{
     height: 20px;
@@ -145,12 +146,134 @@ left: 240px;
     top: -20px;
     left: -20px;
 }
+.linea{
+    background-color: black;
+    border-top: 3px solid rgb(180, 67, 67);
+     width: 290px;
+     position: relative; left: -50px; right: -30px;
+}
+.tprimary{
+    position: relative;
+    top: -80px;
+    left: 60px;
+    font-family:  sans-serif;
+}
+.tsecundary{
+    position: relative;
+    top: -40px;
+    left: -20px;
+    color: rgb(58, 53, 53);
+    font-family:  sans-serif;
+    
+}
+#part3{
+    background-color: rgb(206, 206, 206);
+    height: 805px;
+}
+.word1{
+ width: 350px;
+ position: relative;
+ top: -100px;
+ left: 200px;
+}
+.word-one{
+    height: 130px;
+    width: 130px;
+    padding-left: 50px;
+    padding-top: 80px;
+}
+.word2{
+    position: relative;
+    top: -340px;
+    left: 850px;
+    width: 350px;
+}
+.word-two{
+    height: 150px;
+    width: 105px;
+    position: relative;
+    top: -230px;
+    left: 710px;
+}
+.word3{
+    position: relative;
+    top: -360px;
+    left: 200px;
+    width: 400px;
+}
+.word-three{
+    height: 130px;
+    width: 220px;
+    position: relative;
+    top: -250px;
+    left: 10px;
+}
+.word4{
+    position: relative;
+    top: -580px;
+    left: 850px;
+    width: 350px;
+}
+.word-four{
+    height: 115px;
+    width: 135px;
+    position: relative;
+    top: -480px;
+    left: 690px;
+}
+.word5{
+    position: relative;
+    top: -460px;
+    left: 610px; 
+    width: 300px;
+}
+.word-five{
+    height: 155px;
+    width: 195px;
+    position: relative;
+    top: -350px;
+    left: 400px;
+}
+.dates{
+    position: relative;
+     left: -40px; 
+     top: -30px;
+}
+#imd{
+    height: 1px;
+    width: 1px;
+}
+.subtitle{
+    margin-top: -100px;
+}
+.ulogo{
+    height: 50px;
+    width: 50px;
+    padding-top: 80px;
+    padding-left: 70px;
+}
 #footer-1{
     color: white;
-    height: 120px;
-    background-color: black;
+    height: 222px;
+    background-color: rgb(0, 0, 0);
 }
-.afsee{
-    padding: 20px;
-    background-color: black;
+.titlenew{
+    position: relative;
+    top: -115px;
+    left: -90px;
+    display: flex;
+    justify-content: flex-end;
+} 
+.icon{
+    color: antiquewhite;
+    text-decoration: none;
+}
+.titles{
+    position: relative;
+    top: -7px;
+}
+#icons{
+    padding-left: 1100px;
+    position: relative;
+    top: -100px;
 }
